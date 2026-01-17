@@ -31,13 +31,13 @@ Tras procesar **397,884 transacciones** y depurar clientes inactivos, la segment
     * Se identificó un grupo intermedio con alta recencia pero baja frecuencia.
     * *Estrategia:* Aquí es donde debe ir el presupuesto de Marketing (Cross-selling) para convertirlos en Champions.
 
----
 
 ##  Visualización de Segmentos
 
 Distribución de clientes según su puntaje RFM. Nótese la gran base de usuarios inactivos vs. la élite de compradores frecuentes.
 
-![RFM Segments](rfm_segments.png)
+<img width="2847" height="1665" alt="rfm_segments" src="https://github.com/user-attachments/assets/0f8f3fbb-5453-4eca-b844-29fac39b02af" />
+
 
 ---
 
