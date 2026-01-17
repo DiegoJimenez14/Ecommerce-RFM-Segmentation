@@ -11,7 +11,6 @@ Una empresa de retail online del Reino Unido posee una base de datos transaccion
 
 **Técnica Utilizada:** Análisis RFM (Recency, Frequency, Monetary) para clasificar clientes según su valor y comportamiento.
 
----
 
 ##  Hallazgos Clave (Data Insights)
 
@@ -37,7 +36,6 @@ Distribución de clientes según su puntaje RFM. Nótese la gran base de usuario
 <img width="2847" height="1665" alt="rfm_segments" src="https://github.com/user-attachments/assets/0f8f3fbb-5453-4eca-b844-29fac39b02af" />
 
 
----
 
 ##  Tech Stack
 
@@ -45,7 +43,6 @@ Distribución de clientes según su puntaje RFM. Nótese la gran base de usuario
 * **Matplotlib / Seaborn:** Visualización de la distribución de segmentos.
 * **Jupyter Notebook:** Entorno de desarrollo interactivo.
 
----
 <div align="center">
   
 **Author:** Diego Jimenez | [LinkedIn Profile](TU_LINK_DE_LINKEDIN_AQUI)
