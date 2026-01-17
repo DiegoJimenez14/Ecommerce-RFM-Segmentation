@@ -45,6 +45,6 @@ Distribución de clientes según su puntaje RFM. Nótese la gran base de usuario
 
 <div align="center">
   
-**Author:** Diego Jimenez | [LinkedIn Profile](TU_LINK_DE_LINKEDIN_AQUI)
+**Author:** Diego Jimenez |
 
 </div>
