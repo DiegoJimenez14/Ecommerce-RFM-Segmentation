@@ -12,7 +12,7 @@ Una empresa de retail online del Reino Unido posee una base de datos transaccion
 **Técnica Utilizada:** Análisis RFM (Recency, Frequency, Monetary) para clasificar clientes según su valor y comportamiento.
 
 
-##  Hallazgos Clave (Data Insights)
+##  Hallazgos Clave  Data Insights
 
 Tras procesar **397,884 transacciones** y depurar clientes inactivos, la segmentación reveló una realidad crítica:
 
