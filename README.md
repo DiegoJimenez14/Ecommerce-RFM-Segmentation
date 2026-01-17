@@ -5,8 +5,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
 
----
-
 ##  Business Case
 
 Una empresa de retail online del Reino Unido posee una base de datos transaccional masiva (+500k registros) pero carece de inteligencia sobre sus clientes. El objetivo es segmentar la base de usuarios para optimizar campañas de marketing, pasando de un enfoque "masivo" a uno "dirigido".
